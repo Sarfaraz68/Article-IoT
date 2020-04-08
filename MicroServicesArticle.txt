@@ -23,3 +23,11 @@ In 1997 computer scientist/researchers point out the following problems with Mon
 5. Make it working
 
 It was clear that owing to the above mentioned problems Monolithic Architecture was unable to handle the challenges of Modern, Fast-Paced and Web-Scale Software development.
+
+Further we will check out what are the limitations of Monolithic Architecture.
+
+1. Application Scaling: the capacity to make change in size or scale of Applications in (MA) is burdensome and difficult . Monolithic software is developed in a single programming language and therefore it is not possible to implement one single module of it in other programming languages.
+2. Development Velocity: adding a new features in monolithic application is difficult because, therefore making changes is slow
+3. Release Cycle: at present large release cycles put a company on disadvantage the more large release cycle more chance of losing market. 
+4. Modularization: the Modules in Monolithic Architecture are tightly coupled, therefore, as the application begins to grow ,modules begin to merge.
+5. Modernization: Modernization of Monolithic application is often expensive and time-consuming.
