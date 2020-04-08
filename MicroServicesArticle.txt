@@ -31,3 +31,14 @@ Further we will check out what are the limitations of Monolithic Architecture.
 3. Release Cycle: at present large release cycles put a company on disadvantage the more large release cycle more chance of losing market. 
 4. Modularization: the Modules in Monolithic Architecture are tightly coupled, therefore, as the application begins to grow ,modules begin to merge.
 5. Modernization: Modernization of Monolithic application is often expensive and time-consuming.
+
+Advantages of Microservices
+===========================
+1. Microservices are small therefore easy to build by a team of few developers.
+2. Modules are separated that makes development of applications easier.
+3. Microservices can be deployed independently. 
+4. If there is a bug/error in a service, the entire application will not stop working. After removing the bug/error service can be redeployed.
+5. Choosing technology i.e. programming language, database etc,  which suits the requirement of application, in MA is not limited.
+
+
+
