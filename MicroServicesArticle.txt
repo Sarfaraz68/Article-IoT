@@ -41,6 +41,16 @@ Advantages of Microservices
 5. Choosing technology i.e. programming language, database etc,  which suits the requirement of application, in MA is not limited.
 6. New features can be deployed and old features can be discarded easily.
 
+Advantages of Microservices
+===========================
+1. Design Complexity: 
+2. Distributed Systems Complexity:
+3. Operational Complexity:
+4. Security:
+5. Data Sharing and Data Consistency:
+6. Communication Complexities:
+
+
 
 
 
