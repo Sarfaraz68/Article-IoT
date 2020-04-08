@@ -39,6 +39,8 @@ Advantages of Microservices
 3. Microservices can be deployed independently. 
 4. If there is a bug/error in a service, the entire application will not stop working. After removing the bug/error service can be redeployed.
 5. Choosing technology i.e. programming language, database etc,  which suits the requirement of application, in MA is not limited.
+6. New features can be deployed and old features can be discarded easily.
+
 
 
 
