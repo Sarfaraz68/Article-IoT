@@ -1,18 +1,18 @@
-#Microservices
-##(In the eyes of a layman)
-####By Sarfaraz Ahmed Khan - (IOT047399)
+# Microservices
+## (In the eyes of a layman)
+#### By Sarfaraz Ahmed Khan - (IOT047399)
 
 ## Definition
 Microservices architecture or simply known as microservices is a collection of services that are loosely coupled and can be managed easily. 
 
 Furthermore, these services can be tested and deployed independently. Microservices architecture is a practice of breaking an application into smaller and independent components which can communicate through an API interface.
 
-##Before The Emergence Of Microservices
+## Before The Emergence Of Microservices
 In the beginning of software development only highly qualified people could write a computer programme. In 1964 BASIC language was developed which made programme-writing easy for less qualified people. Therefore in the 1960s software began to become lengthy and complex. The computer scientist introduced a modular approach to overcome complexity of the programmes. In 1972 the concept of modularity introduced which led to Modular software development. This concept consists of decomposing large/lengthy code of softwares into loosely coupled and highly cohesive modules that made  sure that one module should focus on single functionality.
 
 After the rise of internet, applications become large and more complex applications therefore  another architecture introduced i.e. Layered Architect which consist of Presentation, Business, Database layers.
 
-##Monolithic Architecture
+## Monolithic Architecture
 A monolithic architecture is a unified software program, means composed all in one piece. Monolithic software is designed in which components of the program are interconnected and interdependent. In a tightly-coupled architecture, each component and its associated components must be present in order for code to be executed or compiled.
 
 In 1997 computer scientist/researchers point out the following problems with Monolithic Architecture (MA):
@@ -33,7 +33,7 @@ Further we will check out what are the limitations of Monolithic Architecture.
 4. Modularization: the Modules in Monolithic Architecture are tightly coupled, therefore, as the application begins to grow ,modules begin to merge.
 5. Modernization: Modernization of Monolithic application is often expensive and time-consuming.
 
-##Advantages of Microservices
+## Advantages of Microservices
 1. Microservices are small therefore easy to build by a team of few developers.
 2. Modules are separated that makes development of applications easier.
 3. Microservices can be deployed independently. 
