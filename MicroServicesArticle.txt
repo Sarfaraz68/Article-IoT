@@ -45,3 +45,12 @@ Advantages of Microservices
 5. Choosing technology i.e. programming language, database etc,  which suits the requirement of application, in MA is not limited.
 6. New features can be deployed and old features can be discarded easily.
 
+Disadvantages of Microservices
+===========================
+1. Design Complexity: A system which works on many services is bound to be complex. Therefore, Microservice design is complex. A badly designed Microservice is worse than a Monolith.
+2. Distributed Systems Complexity:Distributed systems are complex in nature therefore in Distributed Microservices there can be problems such as Overall System latency is higher, Network failure or Individual Node failure and Operational complexities are higher. 
+3. Operational Complexity:it is difficult to manage a large number of services.The developer needs to solve the problem, such as network latency and load balancing.
+4. Security:  Security of a single software is difficult and security of many services is more difficult.
+5. Data Sharing and Data Consistency: Every service has its own database thus making it difficult to share data and keep consistency with other services to run an application.
+
+
