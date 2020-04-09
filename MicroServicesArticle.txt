@@ -14,6 +14,10 @@ In the beginning of software development only highly qualified people could writ
 
 After the rise of internet, applications become large and more complex applications therefore  another architecture introduced i.e. Layered Architect which consist of Presentation, Business, Database layers.
 
+Monolithic Architecture
+=======================
+A monolithic architecture is a unified software program, means composed all in one piece. Monolithic software is designed in which components of the program are interconnected and interdependent. In a tightly-coupled architecture, each component and its associated components must be present in order for code to be executed or compiled.
+
 In 1997 computer scientist/researchers point out the following problems with Monolithic Architecture (MA):
 
 1. Unregulated growth
@@ -40,17 +44,4 @@ Advantages of Microservices
 4. If there is a bug/error in a service, the entire application will not stop working. After removing the bug/error service can be redeployed.
 5. Choosing technology i.e. programming language, database etc,  which suits the requirement of application, in MA is not limited.
 6. New features can be deployed and old features can be discarded easily.
-
-Advantages of Microservices
-===========================
-1. Design Complexity: A system which works on many services is bound to be complex. Therefore, Microserivice design is complex. A badly designed Microservice is worse than a Monolith.
-2. Distributed Systems Complexity:Distributed systems are complex in nature therefore in Distributed Microservices there can be problems such as Overall System latency is higher, Network failure or Individual Node failure and Operational complexities are higher. 
-3. Operational Complexity:
-4. Security:
-5. Data Sharing and Data Consistency:
-6. Communication Complexities:
-
-
-
-
 
